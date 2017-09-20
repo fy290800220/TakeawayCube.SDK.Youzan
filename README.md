@@ -2,12 +2,12 @@
 + 有赞开放平台SDK .net Core 版本
 + 官方.net Framework 版本：https://github.com/ph0ly/open-sdk-csharp
 
-## nuget
+## Nuget
 ```
 Install-Package TakeawayCube.SDK.Youzan -Version 1.0.0
 ```
 
-## 如何使用？（参考README.md）
+## 如何使用？
 ### 调用youzan.item.create接口
 
 ```
