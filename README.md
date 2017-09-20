@@ -1,5 +1,5 @@
 ## 介绍
-+ 有赞开放平台.net Core 版本SDK 
++ 有赞开放平台SDK .net Core 版本
 + 官方.net Framework 版本：https://github.com/ph0ly/open-sdk-csharp
 
 ## nuget
